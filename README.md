@@ -9,8 +9,8 @@
 - optional: 
 
 You should be able to install the kernel header files for the currently running kernel by running the following in a terminal:
-
     `sudo apt-get install linux-headers-$(uname -r)`
+
 In general, the kernel header packages are named linux-header-* where "*" indicates the version & variant (generic, server, etc.).
 
 2. clone this repository:
